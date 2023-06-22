@@ -8,3 +8,6 @@ leetcode practice problems by java and javascript
 3. [977. Squares of a Sorted Array](./problems/0977.SquaresOfASortedArray.md)
 4. [209. Minimum Size Subarray Sum](./problems//0209.MinimumSizeSubarraySum.md)
 
+## Other
+1. [29. Divide Two Integers](./problems/0029.DivideTwoIntegers.md)
+
