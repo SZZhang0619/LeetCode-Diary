@@ -12,6 +12,7 @@ leetcode practice problems by java and javascript
 # Linked List
 1. [203. Remove Linked List Elements](./problems/0203.RemoveLinkedListElements.md)
 2. [707. Design Linked List](./problems/0707.DesignLinkedList.md)
+3. [206. Reverse Linked List](./problems/0206.ReverseLinkedList.md)
 ## Other
 1. [29. Divide Two Integers](./problems/0029.DivideTwoIntegers.md)
 
