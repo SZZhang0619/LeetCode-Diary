@@ -2,6 +2,9 @@
 leetcode practice problems by java and javascript
 ## LeetCode Problems
 
+## Math
+1. [9. Palindrome Number](./problems/0009.PalindromeNumber.md)
+
 ## Array
 1. [704. Binary Search](./problems/0704.BinarySearch.md)
 2. [27. Remove Element](./problems/0027.%20RemoveElement.md)
