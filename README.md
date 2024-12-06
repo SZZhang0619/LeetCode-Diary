@@ -2,6 +2,9 @@
 leetcode practice problems by java and javascript
 ## LeetCode Problems
 
+## Array
+1. [1. Two Sum](./problems/0001.TwoSum.md)
+
 ## Math
 1. [9. Palindrome Number](./problems/0009.PalindromeNumber.md)
 
