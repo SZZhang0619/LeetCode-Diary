@@ -31,8 +31,20 @@ leetcode practice problems by java and javascript
 ## Hash Table
 
 1. [13. Roman to Integer](./problems/0013.RomanToInteger.md)
+2. [203. Remove Linked List Elements](./problems/)
+3. [707. Design Linked List](./problems/)
+4. [206. Reverse Linked List](./problems/)
+5. [24. Swap Nodes in Pairs](./problems/)
+6. [19. Remove Nth Node From End of List](./problems/)
+7. [142. Linked List Cycle II](./problems/)
+8. [234. Palindrome Linked List](./problems/)
+9. [143. Reorder List](./problems/)
+10. [141. Linked List Cycle](./problems/)
+11. [160. Intersection of Two Linked Lists](./problems/)
 
 ## String
+
+## Two Pointers
 
 ## Binary Tree
 
