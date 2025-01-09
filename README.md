@@ -53,16 +53,169 @@ leetcode practice problems by java and javascript
 
 ## String
 
+1. [344. Reverse String](./problems/)
+2. [541. Reverse String II](./problems/)
+3. [151. Reverse Words in a String](./problems/)
+4. [459. Repeated Substring Pattern](./problems/)
+5. [925. Long Pressed Name](./problems/)
+6. [844. Backspace String Compare](./problems/)
+7. [2185. Counting Words With a Given Prefix](./problems/2185.CountingWordsWithAGivenPrefix.md)
+
 ## Two Pointers
+
+1. [15. 3Sum](./problems/)
+2. [18. 4Sum](./problems/)
+
+## Stack、Queue、Heap (Priority Queue)
+
+1. [232. Implement Queue using Stacks](./problems/)
+2. [225. Implement Stack using Queues](./problems/)
+3. [20. Valid Parentheses](./problems/)
+4. [1047. Remove All Adjacent Duplicates In String](./problems/)
+5. [150. Evaluate Reverse Polish Notation](./problems/)
+6. [239. Sliding Window Maximum](./problems/)
+7. [347. Top K Frequent Elements](./problems/)
 
 ## Binary Tree
 
+1. [226. Invert Binary Tree](./problems/)
+2. [101. Symmetric Tree](./problems/)
+3. [104. Maximum Depth of Binary Tree](./problems/)
+4. [111. Minimum Depth of Binary Tree](./problems/)
+5. [222. Count Complete Tree Nodes](./problems/)
+6. [110. Balanced Binary Tree](./problems/)
+7. [257. Binary Tree Paths](./problems/)
+8. [404. Sum of Left Leaves](./problems/)
+9. [513. Find Bottom Left Tree Value](./problems/)
+10. [112. Path Sum](./problems/)
+11. [106. Construct Binary Tree from Inorder and Postorder Traversal](./problems/)
+12. [654. Maximum Binary Tree](./problems/)
+13. [617. Merge Two Binary Trees](./problems/)
+14. [700. Search in a Binary Search Tree](./problems/)
+15. [98. Validate Binary Search Tree](./problems/)
+16. [530. Minimum Absolute Difference in BST](./problems/)
+17. [501. Find Mode in Binary Search Tree](./problems/)
+18. [236. Lowest Common Ancestor of a Binary Tree](./problems/)
+19. [235. Lowest Common Ancestor of a Binary Search Tree](./problems/)
+20. [701. Insert into a Binary Search Tree](./problems/)
+21. [450. Delete Node in a BST](./problems/)
+22. [669. Trim a Binary Search Tree](./problems/)
+23. [108. Convert Sorted Array to Binary Search Tree](./problems/)
+24. [538. Convert BST to Greater Tree](./problems/)
+25. [129. Sum Root to Leaf Numbers](./problems/)
+26. [1382. Balance a Binary Search Tree](./problems/)
+27. [100. Same Tree](./problems/)
+28. [116. Populating Next Right Pointers in Each Node](./problems/)
+
 ## Backtracking
+
+1. [77. Combinations](/problems/)
+2. [216. Combination Sum III](/problems/)
+3. [17. Letter Combinations of a Phone Number](/problems/)
+4. [39. Combination Sum](/problems/)
+5. [40. Combination Sum II](/problems/)
+6. [131. Palindrome Partitioning](/problems/)
+7. [93. Restore IP Addresses](/problems/)
+8. [78. Subsets](/problems/)
+9. [90. Subsets II](/problems/)
+10. [491. Non-decreasing Subsequences](/problems/)
+11. [46. Permutations](/problems/)
+12. [47. Permutations II](/problems/)
+13. [332. Reconstruct Itinerary](/problems/)
+14. [51. N-Queens](/problems/)
+15. [37. Sudoku Solver](/problems/)
+16. [52. N-Queens II](/problems/)
 
 ## Greedy
 
+1. [455. Assign Cookies](./problems/)
+2. [376. Wiggle Subsequence](./problems/)
+3. [53. Maximum Subarray](./problems/)
+4. [122. Best Time to Buy and Sell Stock II](./problems/)
+5. [55. Jump Game](./problems/)
+6. [45. Jump Game II](./problems/)
+7. [1005. Maximize Sum Of Array After K Negations](./problems/)
+8. [134. Gas Station](./problems/)
+9. [](./problems/)
+10. [135. Candy](./problems/)
+11. [860. Lemonade Change](./problems/)
+12. [406. Queue Reconstruction by Height](./problems/)
+13. [452. Minimum Number of Arrows to Burst Balloons](./problems/)
+14. [435. Non-overlapping Intervals](./problems/)
+15. [763. Partition Labels](./problems/)
+16. [56. Merge Intervals](./problems/)
+17. [738. Monotone Increasing Digits](./problems/)
+18. [968. Binary Tree Cameras](./problems/)
+19. [649. Dota2 Senate](./problems/)
+20. [1221. Split a String in Balanced Strings](./problems/)
+
 ## Dynamic Programming
+
+1. [509. Fibonacci Number](./problems/)
+2. [70. Climbing Stairs](./problems/)
+3. [746. Min Cost Climbing Stairs](./problems/)
+4. [62. Unique Paths](./problems/)
+5. [63. Unique Paths II](./problems/)
+6. [343. Integer Break](./problems/)
+7. [96. Unique Binary Search Trees](./problems/)
+8. [416. Partition Equal Subset Sum](./problems/)
+9. [1049. Last Stone Weight II](./problems/)
+10. [494. Target Sum](./problems/)
+11. [474. Ones and Zeroes](./problems/)
+12. [518. Coin Change II](./problems/)
+13. [377. Combination Sum IV](./problems/)
+14. [322. Coin Change](./problems/)
+15. [279. Perfect Squares](./problems/)
+16. [139. Word Break](./problems/)
+17. [198. House Robber](./problems/)
+18. [213. House Robber II](./problems/)
+19. [337. House Robber III](./problems/)
+20. [121. Best Time to Buy and Sell Stock](./problems/)
+21. [122. Best Time to Buy and Sell Stock II](./problems/)
+22. [123. Best Time to Buy and Sell Stock III](./problems/)
+23. [188. Best Time to Buy and Sell Stock IV](./problems/)
+24. [309. Best Time to Buy and Sell Stock with Cooldown](./problems/)
+25. [714. Best Time to Buy and Sell Stock with Transaction Fee](./problems/)
+26. [300. Longest Increasing Subsequence](./problems/)
+27. [674. Longest Continuous Increasing Subsequence](./problems/)
+28. [718. Maximum Length of Repeated Subarray](./problems/)
+29. [1143. Longest Common Subsequence](./problems/)
+30. [1035. Uncrossed Lines](./problems/)
+31. [53. Maximum Subarray](./problems/)
+32. [392. Is Subsequence](./problems/)
+33. [115. Distinct Subsequences](./problems/)
+34. [583. Delete Operation for Two Strings](./problems/)
+35. [72. Edit Distance](./problems/)
+36. [647. Palindromic Substrings](./problems/)
+37. [516. Longest Palindromic Subsequence](./problems/)
+38. [5. Longest Palindromic Substring](./problems/)
+39. [132. Palindrome Partitioning II](./problems/)
+40. [673. Number of Longest Increasing Subsequence](./problems/)
 
 ## Monotonic Stack
 
+1. [739. Daily Temperatures](./problems/)
+2. [496. Next Greater Element I](./problems/)
+3. [503. Next Greater Element II](./problems/)
+4. [42. Trapping Rain Water](./problems/)
+5. [84. Largest Rectangle in Histogram](./problems/)
+
 ## Graph
+
+1. [463. Island Perimeter](./problems/)
+2. [841. Keys and Rooms](./problems/)
+3. [127. Word Ladder](./problems/)
+
+## Union Find
+
+1. [684. Redundant Connection](./problems/)
+2. [685. Redundant Connection II](./problems/)
+
+## Simulation
+
+1. [657. Robot Return to Origin](./problems/)
+2. [31. Next Permutation](./problems/)
+
+## Bit Manipulation
+
+1. [1356. Sort Integers by The Number of 1 Bits](./problems/)
