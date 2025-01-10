@@ -50,6 +50,7 @@ leetcode practice problems by java and javascript
 8. [383. Ransom Note](./problems/)
 9. [15. 3Sum](./problems/)
 10. [205. Isomorphic Strings](./problems/)
+11. [217. Contains Duplicate](./problems/0217.ContainsDuplicate.md)
 
 ## String
 
