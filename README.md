@@ -53,6 +53,7 @@ leetcode practice problems by java and javascript
 11. [217. Contains Duplicate](./problems/0217.ContainsDuplicate.md)
 12. [242. Valid Anagram](./problems/0242.ValidAnagram.md)
 13. [49. Group Anagrams](./problems/0049.GroupAnagrams.md)
+14. [347. Top K Frequent Elements](./problems/0347.TopKFrequentElements.md)
 
 ## String
 
