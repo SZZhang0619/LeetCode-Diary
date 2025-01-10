@@ -51,6 +51,7 @@ leetcode practice problems by java and javascript
 9. [15. 3Sum](./problems/)
 10. [205. Isomorphic Strings](./problems/)
 11. [217. Contains Duplicate](./problems/0217.ContainsDuplicate.md)
+12. [242. Valid Anagram](./problems/0242.ValidAnagram.md)
 
 ## String
 
