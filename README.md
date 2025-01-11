@@ -65,6 +65,7 @@ leetcode practice problems by java and javascript
 6. [844. Backspace String Compare](./problems/)
 7. [2185. Counting Words With a Given Prefix](./problems/2185.CountingWordsWithAGivenPrefix.md)
 8. [916. Word Subsets](./problems/0916.WordSubsets.md)
+9. [1400. Construct K Palindrome Strings](./problems/1400.ConstructKPalindromeStrings.md)
 
 ## Two Pointers
 
