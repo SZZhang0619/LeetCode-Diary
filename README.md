@@ -66,6 +66,7 @@ leetcode practice problems by java and javascript
 7. [2185. Counting Words With a Given Prefix](./problems/2185.CountingWordsWithAGivenPrefix.md)
 8. [916. Word Subsets](./problems/0916.WordSubsets.md)
 9. [1400. Construct K Palindrome Strings](./problems/1400.ConstructKPalindromeStrings.md)
+10. [3223. Minimum Length of String After Operations](./problems/3223.MinimumLengthOfStringAfterOperations.md)
 
 ## Two Pointers
 
