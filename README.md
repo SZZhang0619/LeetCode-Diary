@@ -38,6 +38,7 @@ leetcode practice problems by java and javascript
 8. [143. Reorder List](./problems/)
 9. [141. Linked List Cycle](./problems/)
 10. [160. Intersection of Two Linked Lists](./problems/)
+11. [14. Longest Common Prefix](./problems//0014.LongestCommonPrefix.md)
 
 ## Hash Table
 
