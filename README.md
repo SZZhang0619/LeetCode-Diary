@@ -159,6 +159,7 @@ leetcode practice problems by java and javascript
 18. [968. Binary Tree Cameras](./problems/)
 19. [649. Dota2 Senate](./problems/)
 20. [1221. Split a String in Balanced Strings](./problems/)
+21. [2429. Minimize XOR](./problems/2429.MinimizeXOR.md)
 
 ## Dynamic Programming
 
