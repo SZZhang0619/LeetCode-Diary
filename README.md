@@ -22,6 +22,7 @@ leetcode practice problems by java and javascript
 14. [35. Search Insert Position](./problems/)
 15. [238. Product of Array Except Self](./problems//0238.ProductOfArrayExceptSelf.md)
 16. [2425. Bitwise XOR of All Pairings](./problems/2425.BitwiseXOROfAllPairings.md)
+17. [128. Longest Consecutive Sequence](./problems/0128.LongestConsecutiveSequence.md)
 
 ## Math
 
