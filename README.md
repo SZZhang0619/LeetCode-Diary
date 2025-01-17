@@ -234,3 +234,4 @@ leetcode practice problems by java and javascript
 ## Bit Manipulation
 
 1. [1356. Sort Integers by The Number of 1 Bits](./problems/)
+2. [2683. Neighboring Bitwise XOR](./problems/2683.NeighboringBitwiseXOR.md)
