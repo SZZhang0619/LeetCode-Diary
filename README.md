@@ -235,3 +235,7 @@ leetcode practice problems by java and javascript
 
 1. [1356. Sort Integers by The Number of 1 Bits](./problems/)
 2. [2683. Neighboring Bitwise XOR](./problems/2683.NeighboringBitwiseXOR.md)
+
+## Breadth-First Search
+
+1.[1368. Minimum Cost to Make at Least One Valid Path in a Grid](./problems//1368.MinimumCostToMakeAtLeastOneValidPathInAGrid.md)
