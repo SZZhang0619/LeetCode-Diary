@@ -241,3 +241,7 @@ leetcode practice problems by java and javascript
 
 1. [1368. Minimum Cost to Make at Least One Valid Path in a Grid](./problems//1368.MinimumCostToMakeAtLeastOneValidPathInAGrid.md)
 2. [407. Trapping Rain Water II](./problems/0407.TrappingRainWaterII.md)
+
+## Depth-First Search
+
+1. [802. Find Eventual Safe States](./problems/0802.FindEventualSafeStates.md)
