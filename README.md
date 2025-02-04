@@ -24,6 +24,7 @@ leetcode practice problems by java and javascript
 16. [2425. Bitwise XOR of All Pairings](./problems/2425.BitwiseXOROfAllPairings.md)
 17. [128. Longest Consecutive Sequence](./problems/0128.LongestConsecutiveSequence.md)
 18. [2017. Grid Game](./problems/2017.GridGame.md)
+19. [1800. Maximum Ascending Subarray Sum](./problems/1800.MaximumAscendingSubarraySum.md)
 
 ## Math
 
