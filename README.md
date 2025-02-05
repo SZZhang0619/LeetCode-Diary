@@ -75,6 +75,7 @@ leetcode practice problems by java and javascript
 8. [916. Word Subsets](./problems/0916.WordSubsets.md)
 9. [1400. Construct K Palindrome Strings](./problems/1400.ConstructKPalindromeStrings.md)
 10. [3223. Minimum Length of String After Operations](./problems/3223.MinimumLengthOfStringAfterOperations.md)
+11. [1790. Check if One String Swap Can Make Strings Equal](./problems/1790.CheckIfOneStringSwapCanMakeStringsEqual.md)
 
 ## Two Pointers
 
