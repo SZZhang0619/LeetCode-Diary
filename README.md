@@ -62,6 +62,7 @@ leetcode practice problems by java and javascript
 14. [347. Top K Frequent Elements](./problems/0347.TopKFrequentElements.md)
 15. [2657. Find the Prefix Common Array of Two Arrays](./problems/2657.FindThePrefixCommonArrayOfTwoArrays.md)
 16. [36. Valid Sudoku](./problems/0036.ValidSudoku.md)
+17. [1726. Tuple with Same Product](./problems/1726.TuplewithSameProduct.md)
 
 ## String
 
