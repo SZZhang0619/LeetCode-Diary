@@ -63,6 +63,7 @@ leetcode practice problems by java and javascript
 15. [2657. Find the Prefix Common Array of Two Arrays](./problems/2657.FindThePrefixCommonArrayOfTwoArrays.md)
 16. [36. Valid Sudoku](./problems/0036.ValidSudoku.md)
 17. [1726. Tuple with Same Product](./problems/1726.TuplewithSameProduct.md)
+18. [3160. Find the Number of Distinct Colors Among the Balls](./problems/3160.FindTheNumberOfDistinctColorsAmongTheBalls.md)
 
 ## String
 
