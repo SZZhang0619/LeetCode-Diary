@@ -65,6 +65,7 @@ leetcode practice problems by java and javascript
 17. [1726. Tuple with Same Product](./problems/1726.TuplewithSameProduct.md)
 18. [3160. Find the Number of Distinct Colors Among the Balls](./problems/3160.FindTheNumberOfDistinctColorsAmongTheBalls.md)
 19. [2349. Design a Number Container System](./problems/2349.DesignANumberContainerSystem.md)
+20. [2364. Count Number of Bad Pairs](./problems/2364.CountNumberOfBadPairs.md)
 
 ## String
 
