@@ -25,6 +25,7 @@ leetcode practice problems by java and javascript
 17. [128. Longest Consecutive Sequence](./problems/0128.LongestConsecutiveSequence.md)
 18. [2017. Grid Game](./problems/2017.GridGame.md)
 19. [1800. Maximum Ascending Subarray Sum](./problems/1800.MaximumAscendingSubarraySum.md)
+20. [3174. Clear Digits](./problems/3174.ClearDigits.md)
 
 ## Math
 
