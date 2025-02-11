@@ -81,6 +81,7 @@ leetcode practice problems by java and javascript
 9. [1400. Construct K Palindrome Strings](./problems/1400.ConstructKPalindromeStrings.md)
 10. [3223. Minimum Length of String After Operations](./problems/3223.MinimumLengthOfStringAfterOperations.md)
 11. [1790. Check if One String Swap Can Make Strings Equal](./problems/1790.CheckIfOneStringSwapCanMakeStringsEqual.md)
+12. [1910. Remove All Occurrences of a Substring# 13. Roman to Integer](./problems/1910.RemoveAllOccurrencesOfASubstring.md)
 
 ## Two Pointers
 
