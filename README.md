@@ -67,6 +67,7 @@ leetcode practice problems by java and javascript
 18. [3160. Find the Number of Distinct Colors Among the Balls](./problems/3160.FindTheNumberOfDistinctColorsAmongTheBalls.md)
 19. [2349. Design a Number Container System](./problems/2349.DesignANumberContainerSystem.md)
 20. [2364. Count Number of Bad Pairs](./problems/2364.CountNumberOfBadPairs.md)
+21. [2342. Max Sum of a Pair With Equal Sum of Digits](./problems/2342.MaxSumOfAPairWithEqualSumOfDigits.md)
 
 ## String
 
