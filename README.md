@@ -254,3 +254,7 @@ leetcode practice problems by java and javascript
 ## Depth-First Search
 
 1. [802. Find Eventual Safe States](./problems/0802.FindEventualSafeStates.md)
+
+## Backtracking
+
+1. [1718. Construct the Lexicographically Largest Valid Sequence](./problems/1718.ConstructTheLexicographicallyLargestValidSequence.md)
