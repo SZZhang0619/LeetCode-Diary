@@ -149,6 +149,8 @@ leetcode practice problems by java and javascript
 14. [51. N-Queens](/problems/)
 15. [37. Sudoku Solver](/problems/)
 16. [52. N-Queens II](/problems/)
+17. [1718. Construct the Lexicographically Largest Valid Sequence](./problems/1718.ConstructTheLexicographicallyLargestValidSequence.md)
+18. [1980. Find Unique Binary String](./problems/1980.FindUniqueBinaryString.md)
 
 ## Greedy
 
@@ -254,7 +256,3 @@ leetcode practice problems by java and javascript
 ## Depth-First Search
 
 1. [802. Find Eventual Safe States](./problems/0802.FindEventualSafeStates.md)
-
-## Backtracking
-
-1. [1718. Construct the Lexicographically Largest Valid Sequence](./problems/1718.ConstructTheLexicographicallyLargestValidSequence.md)
